@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "5fcce8a782bd27b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "27fd6945872fedf7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EPAM-Java/IT FUNDAMENTALS for LatAm.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0fa904101f3b75b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd566200e6b11cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce5b9911ef0417f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "750b73e9644efe34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abf15a495bdd130d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9c99ef8a14300ed3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4124940a57a5782f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b3e8b9e200a90a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EPAM-Java/IT FUNDAMENTALS for LatAm.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f5c29e42ab49727",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EPAM-Java/IT FUNDAMENTALS for LatAm.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e548000a6b5d0c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "934533b0b89f9a9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EPAM-Java/IT FUNDAMENTALS for LatAm.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "934533b0b89f9a9d",
+  "lastOpenFiles": []
+}
