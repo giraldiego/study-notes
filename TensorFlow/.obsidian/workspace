@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "5fcce8a782bd27b4",
+    "id": "6ce9e90f6f052690",
     "type": "split",
     "children": [
       {
-        "id": "27fd6945872fedf7",
+        "id": "cb18c5ce4f5a3f6b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
+            "file": "C2. Content.md",
             "mode": "source",
             "source": false
           }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "0fa904101f3b75b6",
+    "id": "3592a6113da2cdff",
     "type": "split",
     "children": [
       {
-        "id": "9bd566200e6b11cd",
+        "id": "25c34e53940ae522",
         "type": "tabs",
         "children": [
           {
-            "id": "8ce5b9911ef0417f",
+            "id": "9a3f2a3c2ffb622b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +35,7 @@
             }
           },
           {
-            "id": "750b73e9644efe34",
+            "id": "e965b65097f8b4b3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "abf15a495bdd130d",
+            "id": "a47ef7de13eb5d2e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -64,20 +64,20 @@
     "width": 300
   },
   "right": {
-    "id": "9c99ef8a14300ed3",
+    "id": "616e59687d745da4",
     "type": "split",
     "children": [
       {
-        "id": "4124940a57a5782f",
+        "id": "401e62de253a6ddd",
         "type": "tabs",
         "children": [
           {
-            "id": "4b3e8b9e200a90a2",
+            "id": "9d787906db3f70e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
+                "file": "C2. Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,19 +89,19 @@
             }
           },
           {
-            "id": "0f5c29e42ab49727",
+            "id": "1a488936cd965e2c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
+                "file": "C2. Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4e548000a6b5d0c4",
+            "id": "ddc14250f2752310",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -112,27 +112,26 @@
             }
           },
           {
-            "id": "934533b0b89f9a9d",
+            "id": "66d526c232c959c7",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md"
+                "file": "C2. Content.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "27fd6945872fedf7",
+  "active": "cb18c5ce4f5a3f6b",
   "lastOpenFiles": [
-    "GoogleCloud/Machine Learning Engineer Learning Path/Tips para la certificación de GCP Professional Machine Learning Enginee.md",
-    "GoogleCloud/Certifications.md",
-    "GoogleCloud/Google Cloud Skills Boost.md",
-    "EPAM-Java/IT FUNDAMENTALS for LatAm.md"
+    "C3. Content.md",
+    "C2. Content.md",
+    "C1. Content.md"
   ]
 }
