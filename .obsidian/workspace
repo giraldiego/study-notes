@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
+            "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
+                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
+                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md"
+                "file": "EPAM/IT FUNDAMENTALS for LatAm.md"
               }
             }
           }
@@ -130,9 +130,11 @@
   },
   "active": "27fd6945872fedf7",
   "lastOpenFiles": [
+    "TensorFlow/C3. Content.md",
+    "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
     "GoogleCloud/Machine Learning Engineer Learning Path/Tips para la certificación de GCP Professional Machine Learning Enginee.md",
     "GoogleCloud/Certifications.md",
     "GoogleCloud/Google Cloud Skills Boost.md",
-    "EPAM-Java/IT FUNDAMENTALS for LatAm.md"
+    "EPAM/IT FUNDAMENTALS for LatAm.md"
   ]
 }
