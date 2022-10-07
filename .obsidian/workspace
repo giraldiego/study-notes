@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EPAM/Version Control with Git.md",
+            "file": "Platzi/MySQL.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9c99ef8a14300ed3",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPAM/Version Control with Git.md",
+                "file": "Platzi/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPAM/Version Control with Git.md",
+                "file": "Platzi/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPAM/Version Control with Git.md"
+                "file": "Platzi/MySQL.md"
               }
             }
           }
@@ -130,6 +131,7 @@
   },
   "active": "27fd6945872fedf7",
   "lastOpenFiles": [
+    "EPAM/Version Control with Git.md",
     "EPAM/IT FUNDAMENTALS for LatAm.md",
     "TensorFlow/C3. Content.md",
     "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",

@@ -171,4 +171,15 @@ In this submodule, you have learned:
 2.  In the article [Type system](https://en.wikipedia.org/wiki/Type_system#STATIC) on Wikipedia, you can read about a type system, type checking, polymorphism, and other related topics.
 3.  [Here](https://docs.python.org/3/library/stdtypes.html#) you can read about built-in types in Python.
 
-## 
+## Basic Statements in Programming
+In this submodule, you have learned how to:
+
+-   write condition expressions with selection statements in C, Java, Python, and JavaScript languages
+-   use iteration statements or loops in C, Java, Python, and JavaScript languages
+-   use loop control statements
+
+Please note that it might be useful to read the submodule "Functions" of the "Math for IT" module in order to better understand the basics of Math and be able to implement programming tasks.
+
+### **Additional Materials**
+
+-   This [article](https://realpython.com/python-for-loop/) presents the for loop, the inner working principles of iterables and iterators, two important object types that underlie definite iteration in Python code.
