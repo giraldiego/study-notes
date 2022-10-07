@@ -183,3 +183,38 @@ Please note that it might be useful to read the submodule "Functions" of the "Ma
 ### **Additional Materials**
 
 -   This [article](https://realpython.com/python-for-loop/) presents the for loop, the inner working principles of iterables and iterators, two important object types that underlie definite iteration in Python code.
+
+## Algorithm Design and Modern Software Development Process Models
+### Software Development Models:
+- Waterfall
+- V
+- Incremental
+- Iterative
+- RAD
+- Spiral
+- Agile
+- XP (Extreme Programming) Model
+
+### Frameworks
+- Srcum
+- Kanban
+
+### The Concept of an Algorithm, Types of Algorithms
+- Properties of an algorithm
+- Ways to Describe Algorithms
+
+In this submodule, you have learned:
+
+-   about the application of the main software development models and how they intersect with each other
+-   about programming algorithms and their types
+-   about the ways a programming algorithm can be graphically presented
+
+### **Additional Materials**
+
+1.  To learn why SDLC is needed, what phases of SDLC are distinguished, and what SDLC models exist, you can read the article [Software Development Life Cycle (SDLC)](https://professionalqa.com/software-development-life-cycle).
+2.  In the book [Scrum and XP from the Trenches - 2nd Edition](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2/), you can find a detailed account of how one Swedish company implemented Scrum and XP with a team of approximately 40 people, and how they continuously improved their process over a year’s time.
+3.  [Here](https://www.youtube.com/playlist?list=PLCku-ULHIQvlLC2gFqeoX-JtbEvmeoDhl) you can find videos describing models of software development.
+4.  To catch the difference between Scrum and Agile, watch the video [Difference between Scrum and Agile | Scrum vs Agile](https://www.youtube.com/watch?v=K7YMEFjh724&ab_channel=Uzility).
+5.  Watch the [video](https://www.youtube.com/watch?v=h736bEHkT_Y&ab_channel=AlZimmerman) by Al Zimmerman to learn more about flow charts.
+
+## Functions 
