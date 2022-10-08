@@ -218,3 +218,26 @@ In this submodule, you have learned:
 5.  Watch the [video](https://www.youtube.com/watch?v=h736bEHkT_Y&ab_channel=AlZimmerman) by Al Zimmerman to learn more about flow charts.
 
 ## Functions 
+The declaration of a user-defined function is carried out in two forms:
+
+1.  In the form of a **description** (declaration) when a programmer declares a function prototype which informs the compiler that its full definition (code block or its implementation) will be given below.
+2.  In the form of a **definition** when a programmer declares its full code block or its implementation.
+
+A function **signature** defines the rules for using the function.
+
+Function **semantics** determines how a function is implemented. Typically, it is the body of a function.
+
+In this submodule, you have learned:
+
+-   the essential information about functions in programming
+-   how to pass variables to a function
+-   about local and global variables
+-   the examples of recursive functions
+
+Please note that it might be useful to read the submodules "Functions", "Composition of Functions", and "Recursive Functions" of the "Math for IT" module in order to better understand the basics of Math and be able to implement programming tasks.
+
+### **Additional Materials**
+
+1.  To learn about a function definition, working with parameters, and how a function can produce a value in Python 3, read the [article](https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3).
+2.  In the article [C Programming/String manipulation](https://en.wikibooks.org/wiki/C_Programming/String_manipulation) on WikiBooks, you can read about string.h standard header and about more commonly-used string functions in C.
+3.  To learn more about what problems can be solved using recursive functions, read the [article](https://introcs.cs.princeton.edu/java/23recursion/).

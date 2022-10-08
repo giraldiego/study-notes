@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EPAM/Version Control with Git.md",
+            "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9c99ef8a14300ed3",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPAM/Version Control with Git.md",
+                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPAM/Version Control with Git.md",
+                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPAM/Version Control with Git.md"
+                "file": "EPAM/IT FUNDAMENTALS for LatAm.md"
               }
             }
           }
@@ -130,14 +131,15 @@
   },
   "active": "27fd6945872fedf7",
   "lastOpenFiles": [
-    "2022-10-07.md",
+    "GoogleCloud/Certifications.md",
     "EPAM/IT FUNDAMENTALS for LatAm.md",
+    "Platzi/Curso de Inglés para Developers.md",
     "Platzi/MySQL.md",
+    "Pasted image 20221007144134.png",
     "EPAM/Version Control with Git.md",
+    "2022-10-07.md",
     "TensorFlow/C3. Content.md",
     "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
-    "GoogleCloud/Machine Learning Engineer Learning Path/Tips para la certificación de GCP Professional Machine Learning Enginee.md",
-    "GoogleCloud/Certifications.md",
-    "GoogleCloud/Google Cloud Skills Boost.md"
+    "GoogleCloud/Machine Learning Engineer Learning Path/Tips para la certificación de GCP Professional Machine Learning Enginee.md"
   ]
 }
