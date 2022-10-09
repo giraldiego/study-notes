@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
+            "file": "Platzi/Curso de Inglés para Developers.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9c99ef8a14300ed3",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
+                "file": "Platzi/Curso de Inglés para Developers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
+                "file": "Platzi/Curso de Inglés para Developers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPAM/IT FUNDAMENTALS for LatAm.md"
+                "file": "Platzi/Curso de Inglés para Developers.md"
               }
             }
           }
@@ -131,15 +130,15 @@
   },
   "active": "27fd6945872fedf7",
   "lastOpenFiles": [
-    "GoogleCloud/Certifications.md",
+    "Python/Complete python roadmap.md",
+    "EPAM/Version Control with Git.md",
     "EPAM/IT FUNDAMENTALS for LatAm.md",
+    "GoogleCloud/Certifications.md",
     "Platzi/Curso de Inglés para Developers.md",
     "Platzi/MySQL.md",
     "Pasted image 20221007144134.png",
-    "EPAM/Version Control with Git.md",
     "2022-10-07.md",
     "TensorFlow/C3. Content.md",
-    "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md",
-    "GoogleCloud/Machine Learning Engineer Learning Path/Tips para la certificación de GCP Professional Machine Learning Enginee.md"
+    "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md"
   ]
 }
