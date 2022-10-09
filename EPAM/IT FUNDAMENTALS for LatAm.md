@@ -218,15 +218,6 @@ In this submodule, you have learned:
 5.  Watch the [video](https://www.youtube.com/watch?v=h736bEHkT_Y&ab_channel=AlZimmerman) by Al Zimmerman to learn more about flow charts.
 
 ## Functions 
-The declaration of a user-defined function is carried out in two forms:
-
-1.  In the form of a **description** (declaration) when a programmer declares a function prototype which informs the compiler that its full definition (code block or its implementation) will be given below.
-2.  In the form of a **definition** when a programmer declares its full code block or its implementation.
-
-A function **signature** defines the rules for using the function.
-
-Function **semantics** determines how a function is implemented. Typically, it is the body of a function.
-
 In this submodule, you have learned:
 
 -   the essential information about functions in programming
@@ -241,3 +232,65 @@ Please note that it might be useful to read the submodules "Functions", "Composi
 1.  To learn about a function definition, working with parameters, and how a function can produce a value in Python 3, read the [article](https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3).
 2.  In the article [C Programming/String manipulation](https://en.wikibooks.org/wiki/C_Programming/String_manipulation) on WikiBooks, you can read about string.h standard header and about more commonly-used string functions in C.
 3.  To learn more about what problems can be solved using recursive functions, read the [article](https://introcs.cs.princeton.edu/java/23recursion/).
+
+### Function Prototypes
+The declaration of a user-defined function is carried out in two forms:
+
+1.  In the form of a **description** (declaration) when a programmer declares a function prototype which informs the compiler that its full definition (code block or its implementation) will be given below.
+2.  In the form of a **definition** when a programmer declares its full code block or its implementation.
+
+A function **signature** defines the rules for using the function.
+
+Function **semantics** determines how a function is implemented. Typically, it is the body of a function.
+
+
+
+## Structured Types/Dynamic Data Structures
+In this submodule, you have learned:
+
+-   about the fundamental linear and tree data structures in programming
+-   the information on how stacks, queues, and trees can be implemented with other data structures
+
+Please note that it might be useful to read the submodules "Matrices and Operations" and "Graph Theory" of the "Math for IT" module in order to better understand the basics of Math and be able to implement programming tasks.
+
+### **Additional Materials**
+
+1.  In the [article](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists), you can find information about the methods of list objects in Python, dictionaries, looping techniques, and more on conditions.
+2.  This [article](https://docs.python.org/3/library/array.html) defines an object type that can compactly represent an array of basic values: characters, integers, floating point numbers in Python.
+3.  In this [article](https://realpython.com/python-data-structures/), you can find more detailed information about common Python data structures.
+4.  To learn more about Big O notation, arrays, and linked lists, watch the video [Data Structures and Algorithms in Java](https://www.youtube.com/watch?v=BBpAmxU_NQo&ab_channel=ProgrammingwithMosh).
+
+### Arrays
+https://docs.oracle.com/javase/7/docs/api/java/util/Arrays.html
+
+```C
+type arrayName [ arraySize ];
+//examples
+int superhero_movies [3] = {12,9,10};
+//or
+int superhero_movies [] = {12,9,10};
+```
+
+```C
+//function prototype:
+
+void display(int array[size])
+
+//or
+
+void display(int array [])
+
+//When calling a function, only the name of an array is used as an argument:
+
+display(superhero_movies);
+```
+
+The key difference between arrays in C and Java is that in C, an array is just a memory area without additional functions, and an array variable is actually just a pointer to the address of the first element. In Java, an array is an object (we will consider objects in Submodule 10) that knows about its size and will not allow data to be modified outside its limits.
+
+There is a difference in syntax:
+
+`dataType [] arrayName; // preferred way`
+
+### Structures, Union, Enum in C 
+
+
