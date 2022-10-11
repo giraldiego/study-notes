@@ -294,3 +294,70 @@ There is a difference in syntax:
 ### Structures, Union, Enum in C 
 
 
+
+## Sorting Methods
+### Big O Notation
+https://www.bigocheatsheet.com/
+### Binary Search, Search in Array
+### Sorting Methods
+In this submodule, you have learned:
+
+-   about Big O notation in programming
+-   how to search elements in an array
+-   about available sorting algorithms, such as quicksort, heapsort and merge sort, insertion sort, selection sort, bubble sort, radix sort, and counting sort
+
+Please note that it might be useful to read the submodules "Big O", "Combinatorics", and "Graph Theory" of the "Math for IT" module in order to better understand the basics of Math and be able to implement programming tasks.
+
+
+### **Additional Materials**
+
+1.  To find out the information about Big O notation and algorithm complexity analysis, read the article [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/).
+2.  In the article [C Programming/Pointers and arrays](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays) on WikiBooks you can find information about pointers and arrays in C.
+3.  The following [animations](https://www.toptal.com/developers/sorting-algorithms) illustrate how effectively data sets from different starting points can be sorted using different algorithms.
+4.  This animated [video](https://www.youtube.com/watch?v=NfUTAymEfvQ&ab_channel=Codearchery) shows the example of a binary search.
+
+-   **Comparison operations**: sequential comparison of array elements (except radix sort).
+-   **Permutations**: the method that swaps out-of-order elements. The exchange continues until all elements are ordered.
+
+Sorting can be classified into:
+
+-  **Internal sorting**
+- **External sorting**
+
+Different types of sorting algorithms:
+
+**Bubble Sort** is the simplest sorting algorithm. We compare pairs of adjacent elements and swap them if they are not in the correct order.
+**Insertion sort** iterates through an array and moves the desired value to the beginning of the array.
+**Selection sort** is a kind of hybrid between the bubble sort and the insertion sort.
+**Heapsort** is a comparison-based sorting technique based on the binary heap data structure.
+**Merge sort** is a sorting algorithm that orders lists (or other data structures whose elements can only be accessed sequentially, such as streams) in a specific order.
+**Quicksort sort** is one of the "divide and conquer" algorithms.
+**Radix sort** is a non-comparative sorting algorithm. It avoids comparison by creating and distributing elements into buckets according to their radix.
+## Files
+
+In this submodule, you have learned:
+
+-   the essential information about file handling in programming
+-   how to open and close files
+-   how to read from and write data into a text or a binary file
+
+### **Additional Materials**
+
+1.  In the [article](https://docs.python.org/3/tutorial/inputoutput.html), you can find some ways to present the output of a program, present the data in a readable form, or write to a file for future use in Python.
+2.  To learn about file objects in Python, read the [article](https://docs.python.org/3/c-api/file.html).
+3.  [Here](https://docs.oracle.com/javase/tutorial/essential/io/file.html) you can find the details of reading, writing, creating, and opening files in Java.
+4.  This [article](https://docs.oracle.com/javase/tutorial/essential/io/file.html) defines the basic methods for reading, writing, creating, and opening files in Java.
+
+## Introduction to Object-Oriented Programming
+In this submodule, you have:
+
+-   learned the essential information about classes and objects in object-oriented programming
+-   found the information on how to determine the class structure and access attributes to the components of a class
+-   discussed the principles of OOP
+-   considered some examples of working with a class and objects
+
+### **Additional Materials**
+
+1.  The [Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html) article will help you to write your own classes, including declaring member variables, methods, and constructors, show you how to create objects, and how to use the objects you create in Java.
+2.  You can find the information about objects, values and types, the standard type hierarchy, and the names of special methods in Python in the article [Data model](https://docs.python.org/3/reference/datamodel.html).
+3.  This animated [video](https://www.youtube.com/watch?v=A38y7OO8OK4&ab_channel=SimplyCoding) provides the definition of a class, an object, and the key concepts such as encapsulation, abstraction, inheritance, and polymorphism.

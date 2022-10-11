@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
+            "file": "Linux/NDG Linux Unhatched.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
+                "file": "Linux/NDG Linux Unhatched.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EPAM/IT FUNDAMENTALS for LatAm.md",
+                "file": "Linux/NDG Linux Unhatched.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EPAM/IT FUNDAMENTALS for LatAm.md"
+                "file": "Linux/NDG Linux Unhatched.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "27fd6945872fedf7",
   "lastOpenFiles": [
+    "Platzi/Curso de Optimización del Perfil de LinkedIn.md",
+    "Python/Web Scraping with Python - Beautiful Soup Crash Course.md",
+    "EPAM/IT FUNDAMENTALS for LatAm.md",
     "Platzi/Curso de Inglés para Developers.md",
+    "Python/Intermediate Python Programming Course.md",
+    "Python/Curso Profesional de Python.md",
+    "Platzi/MySQL.md",
     "Python/Complete python roadmap.md",
     "EPAM/Version Control with Git.md",
-    "EPAM/IT FUNDAMENTALS for LatAm.md",
-    "GoogleCloud/Certifications.md",
-    "Platzi/MySQL.md",
-    "Pasted image 20221007144134.png",
-    "2022-10-07.md",
-    "TensorFlow/C3. Content.md",
-    "GoogleCloud/Machine Learning Engineer Learning Path/01. Google Cloud Big Data and Machine Learning Fundamentals.md"
+    "GoogleCloud/Certifications.md"
   ]
 }

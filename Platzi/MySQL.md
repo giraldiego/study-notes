@@ -317,3 +317,25 @@ LEFT JOIN books AS b
 LEFT JOIN authors AS a
   ON a.author_id = b.author_id
 ```
+
+# Comandos UPDATE Y DELETE
+```sql
+DELETE FROM authors
+WHERE author_id = 161 LIMIT 1;
+```
+
+
+```sql
+UPDATE tabla
+SET
+  [columna = valor, ...]
+WHERE
+  [condiciones]
+LIMIT 1  
+
+--- Ejemplo
+UPDATE clients
+SET active = 0
+WHERE client_id = 89
+LIMIT 1
+```
