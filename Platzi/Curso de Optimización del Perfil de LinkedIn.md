@@ -68,8 +68,6 @@ Para entender la relevancia de LinkedIn en el mercado de conectar talento humano
 -   10 millones de empresas usan LinkedIn
 -   95% de los profesionales usan LinkedIn para encontrar candidatos
 
-![Imagen de Linkedin](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/linkedin%20%281%29.jpg)
-
 En consonancia a las cifras anteriormente vistas, se puede afirmar que **LinkedIn tiene una de las bases de datos más grandes del mundo, en cuanto a candidatos.** Por lo tanto, es muy beneficioso que nos encontremos en esta plataforma.
 
 ## Cómo buscan talento los reclutadores
@@ -320,3 +318,230 @@ Preguntémonos acerca de ¿cómo queremos que nos perciban los demás?
 Comparte con la comunidad en la sección de comentarios como te quedó el perfil luego de aplicar las anteriores recomendaciones.
 
 **Contribución creada por:** _Danilo Herrera._
+
+# Elabora tu Elevator Pitch
+El _Elevator Pitch_ es un discurso en el cual podemos vender la startup o empresa para la que trabajamos o vender nuestro perfil profesional, en el tiempo que un ascensor tarde en llegar a otro piso.
+
+![Imagen de un ascensor.jpg](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Elevator.jpg)
+
+## Estructura del _Elevator Pitch_
+
+Una estructura recomendada, para decir todo lo relevante y de interés acerca de nuestro perfil profesional, son las siguientes 3 partes.
+
+### ¿Quién soy y a quién ayudo?
+
+**En el apartado de quién somos y quién ayudamos debemos especificar claramente, a que nos dedicamos, cómo lo hacemos y la experiencia que tenemos.**
+
+Con respecto a “quién ayudamos” es a que startups o empresas les puede interesar nuestros servicios.
+
+### ¿Qué me apasiona?
+
+En la parte de qué nos apasiona debemos poner nuestro propósito, aquella razón por la cual nos levantamos de la cama todas las mañanas.
+
+> [Curso para Encontrar tu Propósito de Vida](https://platzi.com/cursos/proposito/).
+
+### ¿Qué hace único a mi perfil?
+
+Acerca de qué hace único a nuestro perfil, podemos mencionar especialidades en las que hemos trabajado o habilidades poco comunes pero valiosas en nuestro mercado.
+
+## Ejemplos de _Elevator Pitch_
+
+Para ilustrar y entender de mejor manera, la estructura sugerida para realizar un _Elevator Pitch_ analicemos los siguientes ejemplos.
+
+### Ejemplo para un perfil de desarrollo
+
+Soy ingeniero de desarrollo de producto, actualmente trabajando en impresión 3D para clientes de la industria automotriz. Transformo piezas convencionales en diseños compatibles con la impresión 3D.
+
+Me apasiona convertir ideas en productos funcionales.
+
+Con el uso de herramientas como _design thinking_, mi experiencia en operaciones y mi background académico en ingeniería mecánica, ayudo a mis clientes a desarrollar sus productos. Los hago compatibles para la tecnología de impresión 3D, dando como resultado productos más ligeros con diseño biónico.
+
+### Ejemplo para un perfil de ventas
+
+Profesional con más de 6 años de experiencia en _Comercial Excellence_ y _Sales Force Effetiveness_ para la industria farmacéutica nacional e internacional.
+
+Me apasiona que mi trabajo tenga un impacto en la calidad de vida de las personas y poder contribuir a la innovación médica.
+
+Durante mi carrera, he tenido la oportunidad de trabajar con medicamentos de prescripción, OTC y dispositivos médicos, para diferentes patologías, obteniendo una visión amplia del sector.
+
+## Completa este reto
+
+El reto para esta clase es escribir tu propio _Elevator pitch_ siguiendo la estructura anteriormente vista.
+
+-   ¿Quién soy y a quién ayudo?
+-   Mi pasión
+-   ¿Qué hace único a mi perfil?
+
+Recuerda que puedes tomar el [Curso de Cómo Hacer un Pitch en Inglés](https://platzi.com/cursos/pitch-ingles/)
+
+**Contribución creada por:** _Danilo Herrera._
+
+# Alimenta tu página de inicio con contenido relevante
+**La contratación es una inversión que realiza la startup o empresa**, por lo tanto, debemos tener muy en cuenta que el objetivo es que esa inversión dé resultados, no que se vaya en los próximos 2 meses. Para ello, las reclutadoras o reclutadores lo que hacen es fijarse en los candidatos informados y que hagan buen _fit_ con la cultura.
+
+## Apartado de intereses
+
+En la sección de intereses es muy recomendable que la mantengamos limpia de startups, empresas o _influencers_ que no sean relevantes para ti, para tu propósito u objetivo laboral.
+
+## Identifica # significativos
+
+Cuando crees contenido propio, ten muy en cuenta los # que utilizas, revisa que estos tengan más de 1.000 seguidores antes de ponerlos en tus publicaciones.
+
+## Completa este reto
+
+Comenta en la sección de comentarios cuáles son los #s más significativos para tu búsqueda laboral.
+
+**Contribución creada por:** _Danilo Herrera._
+# Implementa una búsqueda laboral equilibrada
+Para buscar de manera efectiva empleo debes saber como buscar y cuáles son las distintas herramientas sobre las que te vas a apoyar. As4rí que para aumentar nuestra probabilidad de contratación **debemos buscar, encontrar y utilizar los canales adecuados para nuestro perfil.**
+
+## Elegir nuestros canales
+
+Tener en cuenta los canales por los cuales vamos a buscar empleo, nos ayudará a enfocarnos en aquellos que más beneficios proporcionen para nuestro perfil.
+
+-   LinkedIn
+-   Portales de empleo
+-   Red de contactos
+
+## Investigar canales adecuados
+
+La investigación se trata de tomar todos los aspectos que vimos en nuestro objetivo profesional con el fin de elegir el canal adecuado. Recordemos los elementos del objetivo laboral.
+
+-   Sector
+-   Campo laboral
+-   Tipo de empresa
+
+## Interactuar con el sector
+
+**Para entrar en un sector es inevitable conocerlo**, por ello debemos asegurarnos de asistir a eventos, conferencias y reuniones al respecto. Como también informarnos por medio de artículos e _influencers_ que divulguen información acerca de nuestros intereses.
+
+**Contribución creada por:** _Danilo Herrera._
+
+# Conecta con los empleadores de tus sueños
+Una de las mejores prácticas para contactar con las o los empleadores de tus sueños es por medio del mensaje directo.
+
+La gran cantidad de ofertas de trabajo se encuentran en las redes de contactos, no en plataformas o bolsas de empleo. Por lo tanto, debemos saber cómo contactar a las personas clave. Aquí te contamos algunos tips.
+
+![Dos manos tocándose](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/hands%20%281%29.jpg)
+
+## Ofertas de empleo invisibles
+
+**La mayor parte de las ofertas de trabajo no se encuentran públicas**, sino en las redes de contactos. Ya que el ser humano prefiere trabajar con las personas que conoce y esto no es la excepción en las startups o empresas.
+
+Una manera de mantener tu búsqueda de trabajo organizada es por medio del siguiente [esquema](https://platziteam.notion.site/Job-Application-Tracker-be17ef9b42b344aea55ec3264cddade6) que puedes elaborar en la herramienta que prefieras:
+
+header
+
+Nombre
+
+Perfil de LinkedIn
+
+Cargo
+
+Empresa
+
+Mensaje
+
+1
+
+2
+
+3
+
+4
+
+5
+
+> No olvides tomar el [Curso para Conseguir Trabajo en Tecnología](https://platzi.com/cursos/conseguir-trabajo-tech/).
+
+## Método de cascada para contactar personas
+
+El método cascada hace referencia a las **personas que deberíamos contactar cuando estamos buscando empleo**, que suelen ser las que tienen poder de decisión, como por ejemplo:
+
+-   CEO (si la startup o empresa es pequeña)
+-   Manager de área objetivo
+-   Recursos humanos
+
+**Nota:** no contactes con una persona que tenga el mismo rol que quieres ocupar, porque podría vernos como una amenaza y no ayudarnos, sin embargo, existen excepciones.
+
+## ¿Qué tipos de personas puedes contactar?
+
+Mientras estés haciendo tu búsqueda y contactando con otras personas, es importante que sepas que existen 3 tipos de personas con las cuales te vas a topar.
+
+### Antipáticas o antipáticos
+
+Las personas antipáticas o antipáticos son las más fáciles de identificar porque simplemente **no te van a responder el mensaje.** No te preocupes, asimila que existen personas así y sigue adelante.
+
+### Obligadas u obligados
+
+Las personas obligadas u obligados son un poco más difíciles de identificar porque **te van a responder, pero no porque te quieran ayudar, sino solamente por no quedar mal contigo.**
+
+Un rasgo característico de este tipo de personas es que te van a pedir mucha información, pero nada va a avanzar.
+
+### Potenciadoras o potenciadores
+
+Por último, las o los potenciadores son las o los que te van a ayudar genuinamente a avanzar con un proceso de búsqueda de trabajo. Sabrás que son ellas o ellos cuando veamos resultados o feedback.
+
+## Completa este reto
+
+El reto es crear un documento, acerca de la lista de empresas que están en tu radar y compartirlo en la sección de comentarios con la comunidad.
+
+**Contribución creada por:** _Danilo Herrera._
+
+# Escribe mensajes efectivos para conectar
+Como vimos anteriormente, la gran cantidad de ofertas de trabajo no se encuentran públicas, sino en las redes de contactos. Por lo tanto, **veamos como contactar a las personas clave de las organizaciones a las que queremos aplicar.**
+
+## 1. Mensaje por _Inmail_
+
+Debes tener en cuenta que en _Inmail_, solo la vas a poder usar si la persona a la que escribes tiene LinkedIn _premiun_. En consecuencia, utilízalo cuando puedas.
+
+### Ejemplo de mensaje por _Inmail_
+
+Hola Freddy,
+
+Espero que estés bien,
+
+Te sigo hace tiempo en redes sociales, especialmente en YouTube. Tienes videos muy buenos sobre cómo encontrar tu primer trabajo, “Por qué es importante tener una marca personal”, entre otros temas relacionados. Están muy en línea con mi filosofía de trabajo.
+
+No sé si ya ofrecen eso, pero pensé que sería interesante crear un curso en Platzi para hacer despegar tu carrera profesional.
+
+Soy _Head Hunter_ y _Coach_ de carrera, tengo más de 7 años de experiencia acompañando a líderes jóvenes y emprendedores de todo el mundo. Especialmente, en Latam y Europa.
+
+Me encantaría poder contarte más.
+
+¡Quedo atenta a tu feedback!
+
+## 2. Conectar + añadir una nota
+
+Enviar un mensaje con la solicitud de conectar es la manera más común de contactar otra persona, el único limitante son los caracteres, ya que solo podremos escribir 300.
+
+### Técnica _6-point email_
+
+Con la técnica _6-point email_, podrás crear un mensaje corto y conciso donde podremos realizar contacto con la persona que nos interese por medio de un mensaje corto.
+
+1.  75 palabras
+2.  ¿Qué tienen en común?
+3.  Pide consejos, NO trabajo
+4.  Haz tu petición en forma de pregunta
+5.  Síntesis
+6.  50% + del mensaje sobre el contacto
+
+### Ejemplo de conectar + añadir una nota
+
+Algunos ejemplos, de los cuales nos podemos inspirar para crear nuestros propios mensajes son:
+
+-   Hola BBB, veo que tenemos algunos contactos en común y la misma pasión por el desarrollo de talento. Estoy trabajando en XX y uno de los clientes con los que trabajo es YYY. Me encantaría saber más sobre tu experiencia en YYY. ¿Tendrías tiempo para un café virtual?
+-   Hola CCC, veo que tenemos en común la pasión por el desarrollo de productos sostenibles. Me encanta hacia dónde se dirige YYY con su nueva propuesta eléctrica y me gustaría ser parte de esta nueva era. Quisiera saber más sobre tu visión sobre la industria y los nuevos proyectos de desarrollo en tu equipo. ¿Tienes tiempo para un café virtual la próxima semana?
+-   “Hola Jeff, soy Brooke, también _alumni_ de MBA (21’) de DUKE. ¿Podríamos hablar unos minutos sobre tu experiencia en _product management_ en _Red Hat_? Estoy intentando saber más sobre el área de gestión de producto en el ecosistema tech en Carolina del Norte y apreciaría mucho tus _insights_. Saludos, Brooke”
+
+## Lee este bonus
+
+Como bonus para conectar con más personas en LinkedIn, lo que puedes hacer es **compartir artículos de valor para generar interacción y reconocimiento en tu sector.**
+
+Cuando obtengas una certificación o experiencia que antes te hacía falta para entrar a trabajar en una startup o compañía, es necesario que lo comuniques y que las o los empleadores lo puedan notar.
+
+Realizar comentarios de valor en las publicaciones de nuestro interés para que las personas nos mantengan en su mente.
+
+**Contribución creada por:** _Danilo Herrera._
+
+#### Lecturas recomendadas

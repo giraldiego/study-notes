@@ -361,3 +361,206 @@ In this submodule, you have:
 1.  The [Classes and Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html) article will help you to write your own classes, including declaring member variables, methods, and constructors, show you how to create objects, and how to use the objects you create in Java.
 2.  You can find the information about objects, values and types, the standard type hierarchy, and the names of special methods in Python in the article [Data model](https://docs.python.org/3/reference/datamodel.html).
 3.  This animated [video](https://www.youtube.com/watch?v=A38y7OO8OK4&ab_channel=SimplyCoding) provides the definition of a class, an object, and the key concepts such as encapsulation, abstraction, inheritance, and polymorphism.
+
+# Math for IT
+## Functions
+
+> In this submodule, you will learn what a relation is and how to decide whether it represents a function. Also, you will get familiar with the concept of function notation and will learn how to represent a function graphically. You will get know how to evaluate and solve functions provided in different forms. In addition, you will learn how to determine the domain and range of a function and what notations can be used to represent the domain and range. In conclusion, you will study a special kind of a function called a _piecewise function_.
+
+The submodule includes the following topics:  
+
+-   Definition of a Function. Determining Whether a Relationship is a Function
+-   Function Notation
+-   Evaluating and Solving Functions
+-   Notations for the Domain and Range of a Function
+-   Finding the Domain and Range of a Function
+-   Piecewise Functions
+
+A **relation** is a set of ordered pairs. The **domain** of a relation is the set of the first components of each ordered pair. The **range** of a relation is the set of the second components of each ordered pair.
+
+A **function** is a relation that assigns each input value to exactly one output value. We say "the output is a function of the input."
+
+All functions are relations, but not all relations are functions.
+
+The **input** values make up the domain, and the **output** values make up the range.
+
+> The deal is that for a relation to be a function, each input must correspond to exactly one output. In the opposite direction, such a correspondence is not required. In other words, no y-coordinates should be repeated while -coordinates can be repeated.
+
+### Notations for the Domain and Range of a Function
+- **inequality notation**
+- **set-builder notation**
+- **interval notation**
+
+### **Piecewise Functions**
+
+A piecewise function is a function in which more than one formula is used to define the output. _Each formula has its own domain, and the domain of the function is the union of all these smaller domains. 
+
+In this submodule, you have learned how to:
+
+-   determine whether a relation represents a function
+-   evaluate and solve functions in algebraic, equation and tabular forms, or using graphs
+-   find the domain and range of a function in formula form and from graphs
+-   write the domain and range of a function using inequality, set-builder or interval notation
+-   determine the domain and range of a piecewise functi### **Additional Materials**
+
+1.  In the article [What is a Function?](https://www.mathsisfun.com/sets/function.html) on mathsisfun.com, you can read the explanation of functions one more time.
+2.  To have more practice in finding the domain and range of a function, watch two video examples, [video example 1](https://www.youtube.com/watch?v=djT6-YamHaA) and [video example 2](https://www.youtube.com/watch?v=FtJRstFMdhA%2F).
+3.  Watch the video [Determine if a Relation is a Function](https://www.youtube.com/watch?v=zT69oxcMhPw%2F) for additional practice with functions.
+4.  To have practice in finding the domain and range of a piecewise function, watch the [video example](https://www.youtube.com/watch?v=rpI-X9Gn5a4).
+
+This submodule is an adaptation of ["Functions"](https://openstax.org/books/precalculus/pages/1-introduction-to-functions) by Jay Abramson on OpenStax College licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## Composition of Functions
+
+In this submodule, you will get familiar with composite functions and will learn how to create a new function by composing two functions. Also, you will practice evaluating composite functions using tables, graphs, and formulas. You will learn how to determine the domain of composite functions. In conclusion, you will get to know how to decompose composite functions into components.
+
+The submodule includes the following topics:  
+
+-   Definition of a Composite Function
+-   Evaluating a Composite Function
+-   Domain of a Composite Function
+-   Decomposition of a Composite Function
+
+The process of combining functions so that the output of one function becomes the input of another one is known as the **composition of functions**. The resulting function is known as a **composite function**.
+
+In this submodule, you have learned how to:
+
+-   compose a new function from the two existing functions
+-   evaluate a composite function using tables, graphs, and formulas
+-   find the domain of a composite function
+-   decompose a composite function into components
+
+### **Additional Materials**
+
+1.  To strengthen your knowledge about the composition of functions, watch the video [Composite Functions](https://www.youtube.com/watch?v=qxBmISCJSME%2F).
+2.  Watch the [video example 1](https://www.youtube.com/watch?v=yJ9qxnK46OA) and [video example 2](https://www.youtube.com/watch?v=zvULXsC-Z3M) for additional practice in composing functions.
+3.  For the example on the domain of a composite function with a detailed explanation, go to the article [Domains of Composite Functions](https://mathbitsnotebook.com/Algebra2/Functions/FNCompositionDomain.html) on mathbitsnotebook.com.
+4.  To have practice in decomposing functions, watch the [video example](https://www.youtube.com/watch?v=gFSSk8jaAwA&feature=youtu.be%2F) in which three simple examples are considered.
+
+This submodule is an adaptation of ["Composition of Functions"](https://openstax.org/books/precalculus/pages/1-4-composition-of-functions) by Jay Abramson on OpenStax College licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## Matrices and Operations
+
+### Matrices. Addition, Subtraction, and Scalar Multiplication 
+- To add two matrices, you need to add their corresponding elements. However, to perform this operation, the dimensions of the matrices must be the same. Otherwise, the sum of the matrices will be undefined.
+- To subtract two matrices, you need to subtract their corresponding elements. As in addition, matrices must be of the same dimensions. Otherwise, the difference of the matrices will be undefined.
+
+### Matrix Multiplication and Transpose
+
+The first thing that should be mentioned is that multiplication of two matrices is possible only when the number of columns of the first matrix is equal to the number of rows of the second matrix. Otherwise, the product is undefined.
+
+To take the transpose of a matrix you need to transform the original matrix so that the rows become columns. In other words, the first column of the transposed matrix is the first row of the original matrix, the second column of the transposed matrix is the second row of the original matrix, and so on.
+### Augmented Matrix
+### Inverse and Identity Matrices
+### The Determinant of a Matrix 
+### Summary
+In this submodule, you have learned how to:
+
+-   calculate the sum and difference of matrices and the product of a matrix by a scalar
+-   multiply the matrices and how to transpose a matrix
+-   construct an augmented matrix for a system of linear equations
+-   determine the inverse matrix and calculate the determinant of a matrix
+
+### **Additional Materials**
+
+1.  To learn how to transform an augmented matrix to row-echelon form, watch the [video example](https://www.youtube.com/watch?v=BWBckWPjfpw).
+2.  In the [article](https://www.mathsisfun.com/algebra/systems-linear-equations-matrices.html) on mathsisfun.com, you can find the information on how to solve systems of linear equations using matrices.
+3.  Watch the [video example](https://www.youtube.com/watch?v=ieFpNMrd9kU&t=126s) to find out how to solve a system of linear equations using the inverse of a matrix.
+4.  You can learn how to solve a system of linear equations using determinants in this [video example](https://www.youtube.com/watch?v=Z0i_LTUKHVA).
+
+This submodule is an adaptation of chapters 7.5-7.8 of ["Systems of Equations and Inequalities"](https://openstax.org/books/college-algebra/pages/7-introduction-to-systems-of-equations-and-inequalities) by Jay Abramson on OpenStax College licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) and of ["Matrices and Determinants"](http://solr.bccampus.ca:8001/bcc/file/af6e479a-fd5a-44f9-955c-84ece5bfc34a/1/Print%20%28.pdf%29.pdf) by Lyryx Learning based on the original text by K. Kuttler under the [Creative Commons License (CC BY)](https://creativecommons.org/licenses/by/4.0/).
+
+## Big O Notation
+
+In this submodule, you have learned about:
+
+-   asymptotic notations such as Big O and little o, Big Omega and little omega, and Big Theta
+-   two methods how to show that a function is, for example, Big O of another function
+
+### **Additional Materials**
+
+1.  You can find information on asymptotic notations such as Big O, Big Omega, and Big Theta in the article [Asymptotic notation](https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/asymptotic-notation) on khanacademy.org.
+2.  To get familiar with the idea of limits, read the article [Limits (An Introduction)](https://www.mathsisfun.com/calculus/limits.html) on mathsisfun.com.
+3.  In the article [Limits (Evaluating)](https://www.mathsisfun.com/calculus/limits-evaluating.html) on mathsisfun.com, you can read how to evaluate limits.
+4.  About the limits to infinity, you can find information in the article [Limits to Infinity](https://www.mathsisfun.com/calculus/limits-infinity.html) on mathsisfun.com.
+## Recursive Functions
+
+In this submodule, you have learned how to:
+
+-   write a recursive function for a given sequence
+-   find a closed-form function equivalent to a given recursive function using the repeated substitution method
+-   prove the correctness of an equivalent closed-form function using mathematical induction
+
+### **Additional Materials**
+
+1.  In the article [Recursion](https://www.geeksforgeeks.org/recursion/), you can read about recursion in terms of programming.
+2.  Materials on mathematical induction with the explanation based on the example, you can find in the article [An Introduction to Mathematical Induction](https://nrich.maths.org/4718).
+
+### Introduction to Probability Theory
+## Introduction to Probability Theory
+### Basic Terminology
+- An **experiment** is a planned operation carried out under controlled conditions. If the result is not predetermined, then the experiment is said to be a **chance experiment**.
+- The result of an experiment is called an **outcome**. 
+- The **sample space** of an experiment is the set of all possible outcomes. To denote the sample space, the `S` uppercase letter is used.
+- An **event** is any combination of outcomes.
+- A **frequency** is the number of times a value of the data occurs.  
+- A **relative frequency** is the ratio (fraction or proportion) of the number of times a value of the data occurs in the set of all outcomes to the total number of outcomes.
+- The **probability** of any outcome is the **long-term relative frequency** of that outcome.
+
+### Independent and Disjoint Events
+
+Two events `A` and `B` are **independent** if the knowledge that one of them occurred does not affect the chance for the other one to occur.
+
+If it is not known whether `A` and `B` are independent or dependent, assume they are dependent until you can prove otherwise.
+
+Two events `A` and `B` are **disjoint** or **mutually exclusive** if they cannot occur at the same time. This means that and do not share any outcomes
+
+### Multiplication and Addition Rules
+
+### Summary
+In this submodule, you have learned:
+
+-   the basic terms of probability theory
+-   what independent and disjoint events are, and how they differ
+-   how to calculate probabilities using multiplication and addition rules
+
+### **Additional Materials**
+
+1.  To learn about the types of random variables, read the chapters [Discrete Random Variables](https://openstax.org/books/introductory-statistics/pages/4-introduction) and [Continuous Random Variables](https://openstax.org/books/introductory-statistics/pages/5-introduction) of the book Introductory Statistics on openstax.org.
+2.  In the chapter [The Normal Distribution](https://openstax.org/books/introductory-statistics/pages/6-introduction) of the book Introductory Statistics on OpenStax, you can find information and practical exercises on the most popular distribution in statistics.
+3.  To find information on hypothesis testing, read the chapter [Hypothesis Testing with One Sample](https://openstax.org/books/introductory-statistics/pages/9-introduction) of the OpenStax book.
+4.  In the chapter [Linear Regression and Correlation](https://openstax.org/books/introductory-statistics/pages/12-introduction) of Introductory Statistics on openstax.org, you can get familiar with linear regression and correlation.
+
+This submodule is an adaptation of chapters 1 and 3 of ["Introductory Statistics"](https://openstax.org/details/books/introductory-statistics) by Barbara Illowsky, Susan Dean, and others on OpenStax College licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## Combinatorics
+
+### Additive and Multiplicative Principles
+- Multiplicative Principle
+- Additive Principle
+
+### Permutations
+A **permutation** is an arrangement of objects when order is important.
+**Factorial**
+
+### Combinations and the Binomial Theorem
+A **combination** is a selection of objects when order is not important.
+**Binomial Coefficient**
+
+### Summary
+In this submodule, you have learned how to:
+
+-   calculate the number of possible ways an event can occur in, using additive and multiplicative principles
+-   distinguish between the need to use either permutations or combinations
+-   count the number of permutations and combinations in different contexts
+-   determine the value of a binomial coefficient using Pascal’s triangle
+
+### **Additional Materials**
+
+1.  You can find the explanation of permutations and combinations with illustrative examples in the article [Combinatorics](https://mathigon.org/world/Combinatorics) on mathigon.org. There is also information about Pascal’s triangle and the Stars and Bars technique.
+2.  To learn more interesting facts about Pascal’s triangle, read the article [Pascal's Triangle](https://www.mathsisfun.com/pascals-triangle.html) on mathsisfun.com.
+3.  In the article [Combinations and Permutations](https://www.mathsisfun.com/combinatorics/combinations-permutations.html) on mathisfun.com, you can find information about permutations and combinations with and without repetition.
+
+## Graph Theory (Optional)
+
+### Definitions
