@@ -118,3 +118,62 @@ Abandon the current interactive rebase and return the repository to its former s
 `git merge --no-ff <branch-name>`
 
 Force a merge commit even if Git could do a fast-forward merge.
+
+# Rewriting History
+
+`git reflog`
+
+Display the local, chronological history of a repository.
+
+`git reset --mixed HEAD~<n>`
+
+Move the `HEAD` backward `<n>` commits, but don’t change the working directory.
+
+`git reset --hard HEAD~<n>`
+
+Move the `HEAD` backward `<n>` commits, and change the working directory to match.
+
+`git log <since>..<until>`
+
+Display the commits reachable from `<until>` but not from `<since>`. These parameters can be either commit ID’s or branch names.
+
+`git log --stat`
+
+Include extra information about altered files in the log output.
+
+# Remotes
+
+`git clone <remote-path>`
+
+Create a copy of a remote Git repository.
+
+`git remote`
+
+List remote repositories.
+
+`git remote add <remote-name> <remote-path>`
+
+Add a remote repository.
+
+`git fetch <remote-name>`
+
+Download remote branch information, but do not merge anything.
+
+`git merge <remote-name>/<branch-name>`
+
+Merge a remote branch into the checked-out branch.
+
+`git branch -r`
+
+List remote branches.
+
+`git push <remote-name> <branch-name>`
+
+Push a local branch to another repository.
+
+`git push <remote-name> <tag-name>`
+
+Push a tag to another repository.
+
+# Distributed Workflows
+
