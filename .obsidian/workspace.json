@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "5063520fcd7fb3f7",
+        "id": "b503d71a11410290",
         "type": "tabs",
         "children": [
           {
-            "id": "27fd6945872fedf7",
+            "id": "1c178f306c3c24e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow/C3. Content - Natural Language Processing in TensorFlow.md",
+                "file": "TensorFlow/C1. Content.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "382b031477e19e56",
+            "id": "83fea56f75fa1188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TensorFlow/C3. Content - Natural Language Processing in TensorFlow.md",
+                "file": "TensorFlow/DeepLearning.AI TensorFlow Developer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "94348d53c3c2bc9f",
+            "id": "35a0750a99f07a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Ry's Git Tutorial.md",
+                "file": "EPAM/Java Basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9c99ef8a14300ed3",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Ry's Git Tutorial.md",
+                "file": "EPAM/Java Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Ry's Git Tutorial.md",
+                "file": "EPAM/Java Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Ry's Git Tutorial.md"
+                "file": "EPAM/Java Basics.md"
               }
             }
           }
@@ -161,20 +162,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "94348d53c3c2bc9f",
+  "active": "35a0750a99f07a9b",
   "lastOpenFiles": [
-    "TensorFlow/C3. Content - Natural Language Processing in TensorFlow.md",
-    "TensorFlow/C2. Content.md",
-    "TensorFlow/Review.md",
+    "TensorFlow/C1. Content.md",
     "EPAM/IT FUNDAMENTALS for LatAm.md",
-    "Platzi/Curso de Optimización del Perfil de LinkedIn.md",
-    "Platzi/MySQL.md",
-    "Linux/NDG Linux Unhatched.md",
-    "Python/Web Scraping with Python - Beautiful Soup Crash Course.md",
-    "Platzi/Curso de Inglés para Developers.md",
-    "Python/Intermediate Python Programming Course.md"
+    "EPAM/Version Control with Git.md",
+    "EPAM/Test Preparation.md",
+    "EPAM/Java Basics.md",
+    "real-python/Summary.md",
+    "InLearning/Building Recommender Systems with Machine Learning and AI.md",
+    "TensorFlow/C4 - Sequences, Time Series and Prediction.md",
+    "TensorFlow/DeepLearning.AI TensorFlow Developer.md",
+    "TensorFlow/C3. Content - Natural Language Processing in TensorFlow.md"
   ]
 }
