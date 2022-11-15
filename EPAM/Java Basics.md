@@ -402,5 +402,39 @@ You also received practical recommendations to be used for handling exceptions:
 -   Do not generalize exceptions
 -   Avoid unnecessary wraps of exceptions
 
+# 11. Annotations
 
+In this lesson, you have seen that:
+
+-   Annotations contain additional information and link it with different program elements. Annotations help avoid the need to create a template code by activating utilities to generate it from annotations in the source code. They also allow for shortening code and reducing coupling.
+-   The predefined **@Override** annotation informs the compiler that the method is meant to override a method declared in a superclass or interface.
+-   The predefined**@Deprecated** annotation indicates that elements are not recommended for further use and can be deleted from now on.
+-   There are several predefined annotations for creating new annotations from the **lang.annotation** package: **@Retention**, **@Documented**, **@Target**, and **@Inherited**.
+-   It is good practice to implement an annotation in such a way that it is enough for the developer to simply annotate the class, method, or field and pass the required value. The system's reaction to the annotation should be automatic.
+
+# 12. Generics
+
+## Generic Types
+
+https://docs.oracle.com/javase/tutorial/java/generics/types.html
+
+In this lesson, you have studied the concept of parameterization and the properties of generics. You have seen that:
+
+-   Generics refers to the generic nature of a class/interface/method when defining the data types they work with. Generics allow users to use specific data types when invoking a method or creating an object.
+-   Generics make code more stable since they allow the compiler to detect most errors.
+-   An empty set of type arguments (<>) may replace the type arguments required to invoke a constructor of a multipurpose type. This pair of brackets is called a diamond operator.
+-   A raw type is the name of a multipurpose class or interface without any type arguments.
+
+## Generic Methods
+
+In this lesson, you have seen that:
+
+-   A generic method determines a basic set of operations with different data types that are received by the method as a parameter.
+-   Class methods (static), instance methods (not static), and constructors can be declared as generic.
+
+## Restrictions and Erasure. Generics and Inheritance
+
+https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
+
+https://docs.oracle.com/javase/tutorial/java/generics/boundedTypeParams.html
 
