@@ -438,3 +438,49 @@ https://docs.oracle.com/javase/tutorial/java/generics/bounded.html
 
 https://docs.oracle.com/javase/tutorial/java/generics/boundedTypeParams.html
 
+## Restrictions and Erasure. Generics and Inheritance
+
+In this lesson, you have seen that:
+
+-   The upper and lower bounds of type parameters help avoid additional checks and errors when using different data types. 
+-   Due to type erasure, the resulting byte code contains only ordinary classes, interfaces, and methods.
+-   The introduction of generics led to limitations in how type parameters can be used. For example, we can no longer create an object with primitive type arguments, instantiate a type parameter, or declare a static field for type parameters.
+
+
+
+# 13. Enums
+
+## Enums
+
+To summarize:
+
+-   By default, an enum type is an inheritor of the abstract **java.lang.Enum** class and therefore cannot extend other classes.
+-   By default, an enum implements the **java.lang.Comparable** interface and thus can be ordered.
+-   By default, enum values are variables of the **public static final** type.
+-   Some methods are defined as final, i.e., they cannot be overridden:(_name()_, _ordinal()_, _equals()_, _hashCode()_, _compareTo()_, and _clone()_).
+-   The _toString()_ method returns the constant name and can be overridden.
+-   An enum type can have its own fields and methods, including abstract ones, but each constant must implement all abstract methods using anonymous classes.
+-   An enum cannot be declared as a generic type.
+
+
+# 14. Wrapper Classes
+
+## What is a Wrapper Class?
+
+https://docs.oracle.com/javase/tutorial/java/data/numberclasses.html
+
+In this lesson, you have seen that:
+
+-   A wrapper class is a class that encapsulates a value of a primitive type and provides basic operations for working with an object of that class.
+-   Wrapper classes were introduced to the **java.lang** package to represent primitive data types as objects.
+
+You also explored the various properties of wrapper classes.
+
+## Creating Objects of Wrapper Classes
+
+In this lesson, you studied different approaches to creating wrapper class objects by using:
+
+-   A constructor with the relevant primitive type or a string representing the value of a primitive type.
+-   The static method _valueOf()_ with a primitive type or a string representing the value of a primitive type.
+
+You also studied the specifics of creating objects of the **Boolean** class. Finally, you explored how to get a primitive value for numeric wrapper classes from a string of characters using the static method _parse_**Type**_(String value)._
