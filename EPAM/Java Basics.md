@@ -484,3 +484,46 @@ In this lesson, you studied different approaches to creating wrapper class objec
 -   The static method _valueOf()_ with a primitive type or a string representing the value of a primitive type.
 
 You also studied the specifics of creating objects of the **Boolean** class. Finally, you explored how to get a primitive value for numeric wrapper classes from a string of characters using the static method _parse_**Type**_(String value)._
+
+## The Mechanisms of Autoboxing and Unboxing
+
+In this lesson, you have seen that:
+
+-   Autoboxing/unboxing is an automatic transformation performed by Java between primitive types and their corresponding wrapper class objects. This is done to avoid the bulky source code associated with the explicit wrapping of a primitive value into an object and extracting a primitive value from the object.
+-   To quickly access common wrapper class objects (objects of integer types ranging from -128 to 127), the Java virtual machine caches them.
+-   All wrapper classes objects are immutable.
+
+
+# 15. Optional
+
+## Class Optional
+
+In this lesson, you have found out that:
+
+-   The **Optional** class is used to identify the problems of returning a **null** value using the method to perform search, processing, or generate any object in a situation when this action gave no acceptable result.
+-   An object of the **Optional** type can be created using a static factory method: **Optional**._of()_, **Optional**._ofNullable()_, or **Optional**._empty()._
+
+## Methods of the Optional Class
+
+https://docs.oracle.com/en/java/javase/14/docs/api/java.base/java/util/Optional.html
+
+In this lesson, you have explored the following methods of the **Optional** class:
+
+-   Methods of verifying and returning a result get(), isPresent(), ifPresent()
+-   Methods of returning a conditional result orElse(), orElseGet(), orElseThrow()
+
+
+
+# 16. Code Documentation
+## Comments and Documenting
+
+In this lesson, you have found out that:
+
+-   Comments allow to provide additional information about code and are ignored by the compiler.
+-   Java programs have two types of comments: implementation and documentation.
+-   The Javadoc tool extracts information about packages, classes, and interfaces declared as **public**; methods declared as **public / protected**; fields declared as **public / protected**.
+-   Tags are used when writing any comments intended for creating documentation.
+-   Tags are included in the documentation comments in the following order: @author, @version, @param, @return, @exception, @see, @since, @serial, @deprecated. At that, @param and @return are mandatory.
+
+## Generating Documentation
+
